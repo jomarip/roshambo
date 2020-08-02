@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 23a464240be1e4c5fae836af8c5c20c7
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: b828fcfd8a64d41968d9015d06d7c25c
+  - enabled: 1
+    path: Assets/Scenes/LoginWithCrypto.unity
+    guid: 18c511f22e67b414ab2d4df1fd8f5256
+  - enabled: 1
+    path: Assets/Scenes/Register.unity
+    guid: 7ba4ec3dafd46477fa94292384ebf769
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: d2e2ce2390e1947a7aca9d388d459d22
+  - enabled: 1
+    path: Assets/Scenes/Matchmaking.unity
+    guid: 2bf1f22a89c6b455a93ca8c028aadc0c
+  - enabled: 1
+    path: Assets/Scenes/CreateGame.unity
+    guid: 294b63fd42abc4a9d8e0af32be6e00e6
+  - enabled: 1
+    path: Assets/Scenes/Gameplay.unity
+    guid: 839e73874ec68431593266f86bb50d00
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 5f38e0ff225284fd1b74e7d056cedb6c
+  - enabled: 1
+    path: Assets/Scenes/Loss.unity
+    guid: f8379b8de7fae4f6cb1ca12890004b3f
+  - enabled: 1
+    path: Assets/Scenes/Draw.unity
+    guid: 66be808c13b3548a483ce351bcefd99a
+  - enabled: 1
+    path: Assets/Scenes/PrivateGame.unity
+    guid: 76d27affbda724d0a8292c4439816f52
+  - enabled: 1
+    path: Assets/Scenes/QrCam.unity
+    guid: d7ce35a9d71d94352a50f00e8e78066c
+  - enabled: 1
+    path: Assets/Scenes/CreatePrivateGame.unity
+    guid: 2bb1492192a5846a8849f4083e0d1ed9
+  - enabled: 1
+    path: Assets/Scenes/JoinPrivateGame.unity
+    guid: d7c83680adebc48abbda289342e5e539
+  - enabled: 1
+    path: Assets/Scenes/MyAccount.unity
+    guid: 53ba9944314794782aa1b583ef3276d0
+  - enabled: 1
+    path: Assets/Scenes/SelectCards.unity
+    guid: 04a21c9af8b6845c18d6e197e47ffd0e
+  m_configObjects: {}
